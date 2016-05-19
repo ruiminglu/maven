@@ -1,3 +1,4 @@
+# Config file
 name := "Hello"
 
 version := "1.0"
