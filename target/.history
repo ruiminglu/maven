@@ -1,0 +1,10 @@
+run
+name
+version
+scalaVersion
+:quit
+quit
+compile
+run
+console
+~run
