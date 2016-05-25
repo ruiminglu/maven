@@ -1,8 +1,8 @@
 Please read me
 
 -[X] write teh code
--[] wirte all teh tests
--[] Document the code
+-[ ] wirte all teh tests
+-[ ] Document the code
 
 ```java
 for (int i = 0; i < 10; i++) {
@@ -15,5 +15,5 @@ for (int i = 0; i < 10; i++) {
 
 How big are thest quote
 
-:joy_cat
+:joy_cat:
 
